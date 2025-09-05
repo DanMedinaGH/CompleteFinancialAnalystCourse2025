@@ -1,0 +1,1 @@
+This folder contains all the section resources for the sections I have completed. This includes completed Excel exercise documents as well as lecture documents and other supplementary course material.
